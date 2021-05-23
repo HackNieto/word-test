@@ -1,0 +1,101 @@
+
+----------------------------------------------------
+  MÓDULOS ODOO
+----------------------------------------------------
+APLICACIONES DE SITIO WEB
+
+Creador de ditios web
+  - Si se instala junto al módlo de contacto, automáticamnete se guardan las consultas en iniciativas
+Comercio electrónico
+Blogs
+Foro
+Aprendizaje en linea
+Eventos Chat en directo
+Citas
+----------------------------------------------------
+APLICACIONES DE VENTA
+
+CRM
+  - 
+Punto de venta
+  - Conf. iniciales (Conf>Puntos de venta) (Podemos elegir restaurant/bar para que cambia  a mesas en lugar de productos)
+  - Crear productos (Se puede eleigir si estrá disponible o no)
+  - Se puden crear multiples cajas/puntos de venta
+  - Se puden filtrar por nombre o categoría
+  - Crear clientes (Al momento de la venta)
+  - Crar producto
+  - Crear factura
+  - Devoluciones (Se cierra sesión del pv y se entra a pedios/ventas y se elje la venta y se devuelve)
+  - Control de efectivo (Conf>PV>Caja a aplicar>Control de efectiov>Se puede crear plantillas)
+  - 
+Ventas
+  - Agregar/Eliminar/Modificar Clientes
+  - Agregar/Eliminar/Modificar Productos
+  - Crear/Editar/Cancelar Cotización/Presupuesto
+  - Crear/Enviar Factura
+  - Crear/Enciar/Facturar Pago inicial
+  - Factura Pro-forma
+  - Crear/Editar/Eliminar Variantes de profuctos
+  - Crear/Editar/Eliminar Unidades de medidas
+  - Aplicar descuentos
+  - Crear plantillas personalizadas de presupuestos
+  - Crear tarifas y descuentos automáticos
+  - Vender en monedas extranjeras
+  - Productos sugeridos
+  - Firma o pago en linea (Métodos de pagos)
+  - Firma en linea (Para aceptar cotización)
+  - Bloqueo de cotización después de confirmado, para que no sea modificado por error
+  - Acceso a documentos de clientes publicamente en cventas (CLiente>Acciones>Acceso al portal)
+  - Generar informes en el módulo de ventas (Informes>Ventas) Filtros personalizados
+Suscripciones
+Alquiler
+----------------------------------------------------
+APLICACIOENS FINANCIERAS
+
+Contabilidad
+Facturación
+Gastos
+----------------------------------------------------
+APPS DE OPERACIONES
+
+Inventario
+Hojas de horas
+Proyecto
+Compra
+Servicio de asistencia
+Documentos
+Servicio de campo
+----------------------------------------------------
+APLICACIONES DE FABRICACIÓN
+
+MRP
+PLM
+MRP Mantenimiento
+Calidad
+----------------------------------------------------
+APLICACIONES DE RECURSOS HUMANOS
+
+Contratatción
+Empleados
+Flota
+Ausencias
+Valoración
+Recomendación de empleados
+Aprobaciones
+----------------------------------------------------
+APPS DE COMUNICACIÓN
+
+Hablar
+Firma rlrctrónica
+Encuesta
+----------------------------------------------------
+APLICACIONES DE MARKETING
+
+Automatización
+Email
+SMS
+Social
+----------------------------------------------------
+HERRAMIENTAS DE PERSONALIZACIÓN
+
+Odoo Studio
